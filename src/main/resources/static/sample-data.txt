@@ -1,0 +1,6 @@
+name,age,city,country
+John Doe,25,New York,USA
+Jane Smith,30,London,UK
+Mike Johnson,35,Toronto,Canada
+Sarah Wilson,28,Sydney,Australia
+David Brown,32,Berlin,Germany
